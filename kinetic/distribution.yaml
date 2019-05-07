@@ -12,7 +12,7 @@ repositories:
       - orange_api
       - orange_image_analysis
       - orange_image_analysis_msgs
-     - orange_nlp
+      - orange_nlp
       - orange_nlp_msgs
       - orange_speech_recognition
       - orange_speech_recognition_msgs
